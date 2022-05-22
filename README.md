@@ -1,5 +1,6 @@
 # Wolfram Mathematica code fo varying strength of the impurity during the cycle in weak coupling.
  Wolfram Mathematica code 
+ <br />
 The file named "strength stroke wise .nb" is a mathematica file which containts code to generate the density plots when we vary strength of the impuirty in weak coupling.
 Following are few subtleties of the code: ENE6 variable defines the weak coupling energy eigenvalue as derived analytically in the paper. ZA6 is the corresponding partition function. <br />
 
